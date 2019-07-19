@@ -51,7 +51,7 @@ def checkWin(p1, p2):
     elif (p1 == "s" and p2 == 2):
                     print("You chose Scissors and CPU chose Paper, You Win!")
     elif (p1 == "s" and p2 == 3):
-                    print("You chose Scissors and CPU chose Scissors, CPU Wins!")    
+                    print("You chose Scissors and CPU chose Scissors, Tie!")    
             
 
 if __name__ == "__main__":
